@@ -1,4 +1,3 @@
-
 spring:
   jpa:
     database: POSTGRESQL
@@ -10,7 +9,6 @@ spring:
     username: 
     password:
     driverClassName: org.postgresql.Driver
-
 
 server:
   port: 6080
