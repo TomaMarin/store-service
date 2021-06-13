@@ -25,3 +25,10 @@ buildNumber.properties
 .settings
 .springBeans
 .sts4-cache
+.mvn/wrapper/
+
+HELP.md
+
+mvnw
+
+mvnw.cmd
